@@ -1,0 +1,11 @@
+﻿{
+  "configurations": [
+    {
+      "name": "Release",
+      "generator": "Visual Studio 16 2019 Win64",
+      "configurationType": "Release",
+      "buildRoot": "${projectDir}\\build",
+      "inheritEnvironments": [ "msvc_x64_x64" ]
+    }
+  ]
+}
